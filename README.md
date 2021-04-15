@@ -5,7 +5,7 @@ Make sure you have GRPC installed
 
 and
 
-` sudo python -m pip install grpcio`
+`pip install grpcio-tools`
 
 To run server simply type
 
